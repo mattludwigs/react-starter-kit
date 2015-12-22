@@ -1,6 +1,6 @@
 # React Starter Kit v0.0.1
 
-Some code to get you going on React projects
+Some code to get you going on React projects. This is good for building front ends only. If you are looking for more of a fullstack starter kit checkout [fullstack-seed](https://github.com/mattludwigs/fullstack-seed)
 
 This starter kit includes
 

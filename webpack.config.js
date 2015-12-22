@@ -4,7 +4,6 @@ const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
-  port: 3000,
   entry: path.join(__dirname, '/src/js/app.jsx'),
   output: {
     path: path.join(__dirname, '/out'),

@@ -21,6 +21,8 @@ Important notes.
 1. Be sure to inclue your project folder name at the end of the clone statement as seen below
 2. Change your git romote url to your project remote repo as seen in the last step below
 
+### Get Set Up
+
 ```
 $ git clone git@github.com:mattludwigs/react-starter-kit.git my-project
 $ cd my-project
@@ -28,4 +30,10 @@ $ npm install
 $ git remote set-url origin git@github.com:yourgithubusername/my-project
 
 ```
+### Run The Dev Server
 
+```
+$ npm start
+```
+
+Go to http://localhost:8080/webpack-dev-server/
